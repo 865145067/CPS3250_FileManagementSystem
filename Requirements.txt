@@ -1,0 +1,8 @@
+tkinter
+cryptography
+matplotlib
+psutil
+python-docx
+os
+time
+shutil
